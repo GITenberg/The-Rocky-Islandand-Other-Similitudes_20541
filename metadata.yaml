@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9369
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Wilberforce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20541#The-Rocky-Islandand-Other-Similitudes
 gutenberg_issued: '2007-02-07'
 gutenberg_type: Text
 identifiers:
