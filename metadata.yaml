@@ -1,0 +1,33 @@
+_repo: The-Rocky-Islandand-Other-Similitudes_20541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilberforce, Samuel
+    birthdate: 1805
+    deathdate: 1873
+    gutenberg_agent_id: '9369'
+    url: http://www.gutenberg.org/2009/agents/9369
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Wilberforce
+description: ''
+gutenberg_issued: '2007-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Allegories'
+- !lcsh 'Short stories'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Rocky Island
+
+  and Other Similitudes'
+url: http://www.gutenberg.org/ebooks/20541
